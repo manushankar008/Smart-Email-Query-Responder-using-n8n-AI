@@ -19,7 +19,6 @@ Helps organizations save time by automating responses to common employee queries
 - **Superbse** – vector search for document retrieval
 - **OpenAI (or other LLM)** – generates response based on policy info
 - **Excel (Google Sheets)** – logging incoming queries
-- **V0** – (optional) UI built to trigger workflows manually
 
 ## 🔄 Workflow Overview
 1. Email received ➡️
