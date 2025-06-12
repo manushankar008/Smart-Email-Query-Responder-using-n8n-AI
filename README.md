@@ -34,7 +34,7 @@ Helps organizations save time by automating responses to common employee queries
 
 
 ## 📁 Files
-- `workflow.json` – exported n8n workflow (optional)
+- [workflow.json](https://github.com/manushankar008/Smart-Email-Query-Responder-using-n8n-AI/blob/main/Smart_Email_Query_Responder.jsonhttps://github.com/manushankar008/Smart-Email-Query-Responder-using-n8n-AI/blob/main/Smart_Email_Query_Responder.json) – exported n8n workflow (optional)
 - `sample-email.csv` – dummy input (if you want to include)
 
 ## 🚀 Getting Started
